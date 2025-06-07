@@ -1,13 +1,6 @@
 
 [![@harsimran19's Holopin board](https://holopin.io/api/user/board?user=harsimran19)](https://holopin.io/@harsimran19)
 <h1 align="center">Hi 👋, I'm Harsimran Singh</h1>
-<h3 align="center">ML Engineer | TOP 25% LeetCode</h3>
-
-- 💬 Ask me about **Machine Learning, Web Development, Data Science**
-
-- 📫 How to reach me **harsimran1869@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1evUkE2-oVAEDGauNW0cJQpP6g4FdBbl2?usp=drive_link](https://drive.google.com/drive/folders/1evUkE2-oVAEDGauNW0cJQpP6g4FdBbl2?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
